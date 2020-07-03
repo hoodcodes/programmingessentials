@@ -18,25 +18,47 @@
 ― Steve McConnell, Code Complete
 
 
-**Types of Testing**
+
+
+<ins>**Types of Testing**<ins>
 * Unit
 * Integration
 * Performance
 * Penetration 
 
-**Unit Testing**
+
+
+<ins>**Unit Testing**<ins>
+
+Most of the studies show between 40–80% reduction in shipping bugs as a result of writing tests before you implement features.
+
+Reference for brushing up on unit testing concepts:  https://vitalflux.com/unit-testing-interview-questions-set-1/ 
+
+Mocking
+
+Mock functions:  Erase the actual implementation of a function, capturing calls to the function ( and the parameters passed in those calls).
 
 
 
-**Integration Testing**
+
+
+<ins>**Integration Testing**<ins>
 
 
 
-**Performance Testing**
+
+
+<ins>**Performance Testing**<ins>
 
 
 
-**Penetration Testing**
+
+
+
+<ins>**Penetration Testing**<ins>
+
+
+
 
 
 
