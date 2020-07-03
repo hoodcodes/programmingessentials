@@ -1,0 +1,258 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-11-18 13:22:08
+count workspace : /Users/admin/Projects/Documentation/ProgrammingEssentials
+total files : 49
+total code lines : 246
+total comment lines : 46
+total blank lines : 286
+
+_config.yml, code is 1, comment is 0, blank is 0.
+docs/Agile Development.md, code is 3, comment is 0, blank is 4.
+docs/Algorithms.md, code is 5, comment is 0, blank is 3.
+docs/Architectural Decisions.md, code is 5, comment is 0, blank is 7.
+docs/Building Team Cohesiveness.md, code is 1, comment is 0, blank is 1.
+docs/CI - CD.md, code is 1, comment is 0, blank is 2.
+docs/Cloud Development.md, code is 1, comment is 0, blank is 1.
+docs/Code Challenges.md, code is 1, comment is 0, blank is 1.
+docs/Code Smells.md, code is 1, comment is 0, blank is 1.
+docs/Collections.md, code is 1, comment is 0, blank is 2.
+docs/Communication.md, code is 1, comment is 0, blank is 2.
+docs/Containerization.md, code is 1, comment is 0, blank is 1.
+docs/Continual Learning Practices.md, code is 7, comment is 0, blank is 4.
+docs/CSharp.md, code is 4, comment is 0, blank is 7.
+docs/CSS.md, code is 1, comment is 0, blank is 1.
+docs/Daily Habits.md, code is 8, comment is 1, blank is 6.
+docs/Design Patterns.md, code is 3, comment is 0, blank is 4.
+docs/Documentation.md, code is 5, comment is 0, blank is 3.
+docs/Domain Driven Design.md, code is 1, comment is 0, blank is 1.
+docs/Error Handling.md, code is 1, comment is 0, blank is 1.
+docs/Functional Programming.md, code is 1, comment is 0, blank is 1.
+docs/General Coding Best Practices.md, code is 14, comment is 0, blank is 10.
+docs/HTML.md, code is 1, comment is 0, blank is 1.
+docs/Imposter Syndrome.md, code is 3, comment is 0, blank is 2.
+docs/index.md, code is 54, comment is 44, blank is 59.
+docs/Interviewing.md, code is 1, comment is 0, blank is 1.
+docs/JavaScript.md, code is 3, comment is 0, blank is 4.
+docs/Languages.md, code is 3, comment is 0, blank is 2.
+docs/Naming Conventions.md, code is 1, comment is 0, blank is 1.
+docs/NoSql.md, code is 1, comment is 0, blank is 2.
+docs/Object-Oriented Programming.md, code is 5, comment is 0, blank is 5.
+docs/ORM.md, code is 1, comment is 0, blank is 1.
+docs/Pair and Mob Programming.md, code is 1, comment is 0, blank is 1.
+docs/Problem Solving.md, code is 5, comment is 0, blank is 5.
+docs/Programming Paradigms.md, code is 27, comment is 0, blank is 42.
+docs/Programming Terms.md, code is 28, comment is 0, blank is 55.
+docs/Quotes.md, code is 22, comment is 0, blank is 13.
+docs/SCM.md, code is 1, comment is 0, blank is 0.
+docs/Security.md, code is 1, comment is 0, blank is 2.
+docs/Side Projects.md, code is 4, comment is 0, blank is 6.
+docs/SOLID Principles.md, code is 1, comment is 0, blank is 2.
+docs/SQL.md, code is 1, comment is 0, blank is 2.
+docs/Strings.md, code is 1, comment is 0, blank is 3.
+docs/Teaching.md, code is 3, comment is 0, blank is 2.
+docs/Threading.md, code is 1, comment is 0, blank is 3.
+docs/Unit Testing.md, code is 4, comment is 0, blank is 3.
+docs/User Interface Design.md, code is 2, comment is 0, blank is 2.
+docs/Work Ethic.md, code is 1, comment is 0, blank is 2.
+README.md, code is 3, comment is 1, blank is 2.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-11-18 13:44:08
+count workspace : /Users/admin/Projects/Documentation/ProgrammingEssentials
+total files : 50
+total code lines : 246
+total comment lines : 46
+total blank lines : 286
+
+_config.yml, code is 1, comment is 0, blank is 0.
+docs/Agile Development.md, code is 3, comment is 0, blank is 4.
+docs/Algorithms.md, code is 5, comment is 0, blank is 3.
+docs/Architectural Decisions.md, code is 5, comment is 0, blank is 7.
+docs/Building Team Cohesiveness.md, code is 1, comment is 0, blank is 1.
+docs/CI - CD.md, code is 1, comment is 0, blank is 2.
+docs/Cloud Development.md, code is 1, comment is 0, blank is 1.
+docs/Code Challenges.md, code is 1, comment is 0, blank is 1.
+docs/Code Smells.md, code is 1, comment is 0, blank is 1.
+docs/Collections.md, code is 1, comment is 0, blank is 2.
+docs/Communication.md, code is 1, comment is 0, blank is 2.
+docs/Containerization.md, code is 1, comment is 0, blank is 1.
+docs/Continual Learning Practices.md, code is 7, comment is 0, blank is 4.
+docs/CSharp.md, code is 4, comment is 0, blank is 7.
+docs/CSS.md, code is 1, comment is 0, blank is 1.
+docs/Daily Habits.md, code is 8, comment is 1, blank is 6.
+docs/Design Patterns.md, code is 3, comment is 0, blank is 4.
+docs/Documentation.md, code is 5, comment is 0, blank is 3.
+docs/Domain Driven Design.md, code is 1, comment is 0, blank is 1.
+docs/Error Handling.md, code is 1, comment is 0, blank is 1.
+docs/Functional Programming.md, code is 1, comment is 0, blank is 1.
+docs/General Coding Best Practices.md, code is 14, comment is 0, blank is 10.
+docs/HTML.md, code is 1, comment is 0, blank is 1.
+docs/Imposter Syndrome.md, code is 3, comment is 0, blank is 2.
+docs/index.md, code is 54, comment is 44, blank is 59.
+docs/Interviewing.md, code is 1, comment is 0, blank is 1.
+docs/JavaScript.md, code is 3, comment is 0, blank is 4.
+docs/Languages.md, code is 3, comment is 0, blank is 2.
+docs/Naming Conventions.md, code is 1, comment is 0, blank is 1.
+docs/NoSql.md, code is 1, comment is 0, blank is 2.
+docs/Object-Oriented Programming.md, code is 5, comment is 0, blank is 5.
+docs/ORM.md, code is 1, comment is 0, blank is 1.
+docs/Pair and Mob Programming.md, code is 1, comment is 0, blank is 1.
+docs/Problem Solving.md, code is 5, comment is 0, blank is 5.
+docs/Programming Paradigms.md, code is 27, comment is 0, blank is 42.
+docs/Programming Terms.md, code is 28, comment is 0, blank is 55.
+docs/Quotes.md, code is 22, comment is 0, blank is 13.
+docs/SCM.md, code is 1, comment is 0, blank is 0.
+docs/Security.md, code is 1, comment is 0, blank is 2.
+docs/Side Projects.md, code is 4, comment is 0, blank is 6.
+docs/SOLID Principles.md, code is 1, comment is 0, blank is 2.
+docs/SQL.md, code is 1, comment is 0, blank is 2.
+docs/Strings.md, code is 1, comment is 0, blank is 3.
+docs/Teaching.md, code is 3, comment is 0, blank is 2.
+docs/Technical Debt.md, code is 0, comment is 0, blank is 0.
+docs/Threading.md, code is 1, comment is 0, blank is 3.
+docs/Unit Testing.md, code is 4, comment is 0, blank is 3.
+docs/User Interface Design.md, code is 2, comment is 0, blank is 2.
+docs/Work Ethic.md, code is 1, comment is 0, blank is 2.
+README.md, code is 3, comment is 1, blank is 2.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-11-18 15:45:35
+count workspace : /Users/admin/Projects/Documentation/ProgrammingEssentials
+total files : 53
+total code lines : 263
+total comment lines : 51
+total blank lines : 307
+
+_config.yml, code is 1, comment is 0, blank is 0.
+docs/Agile Development.md, code is 3, comment is 0, blank is 4.
+docs/Algorithms.md, code is 5, comment is 0, blank is 3.
+docs/API Development.md, code is 1, comment is 0, blank is 2.
+docs/Architectural Decisions.md, code is 5, comment is 0, blank is 7.
+docs/Building Team Cohesiveness.md, code is 1, comment is 0, blank is 1.
+docs/CI - CD.md, code is 1, comment is 0, blank is 2.
+docs/Cloud Development.md, code is 1, comment is 0, blank is 1.
+docs/Code Challenges.md, code is 1, comment is 0, blank is 1.
+docs/Code Smells.md, code is 1, comment is 0, blank is 1.
+docs/Collections.md, code is 1, comment is 0, blank is 2.
+docs/Communication.md, code is 1, comment is 0, blank is 2.
+docs/Containerization.md, code is 1, comment is 0, blank is 1.
+docs/Continual Learning Practices.md, code is 7, comment is 0, blank is 4.
+docs/CSharp.md, code is 4, comment is 0, blank is 7.
+docs/CSS.md, code is 1, comment is 0, blank is 1.
+docs/Daily Habits.md, code is 8, comment is 1, blank is 6.
+docs/Debugging.md, code is 2, comment is 0, blank is 3.
+docs/Design Patterns.md, code is 3, comment is 0, blank is 4.
+docs/Documentation.md, code is 5, comment is 0, blank is 3.
+docs/Domain Driven Design.md, code is 1, comment is 0, blank is 1.
+docs/Error Handling.md, code is 1, comment is 0, blank is 1.
+docs/Functional Programming.md, code is 1, comment is 0, blank is 1.
+docs/General Coding Best Practices.md, code is 14, comment is 0, blank is 10.
+docs/HTML.md, code is 1, comment is 0, blank is 1.
+docs/Imposter Syndrome.md, code is 3, comment is 0, blank is 2.
+docs/index.md, code is 59, comment is 48, blank is 66.
+docs/Interviewing.md, code is 1, comment is 0, blank is 1.
+docs/JavaScript.md, code is 3, comment is 0, blank is 4.
+docs/Languages.md, code is 3, comment is 0, blank is 2.
+docs/Naming Conventions.md, code is 1, comment is 0, blank is 1.
+docs/NoSql.md, code is 1, comment is 0, blank is 2.
+docs/Object-Oriented Programming.md, code is 5, comment is 0, blank is 5.
+docs/ORM.md, code is 1, comment is 0, blank is 1.
+docs/Pair and Mob Programming.md, code is 1, comment is 0, blank is 1.
+docs/Problem Solving.md, code is 5, comment is 0, blank is 5.
+docs/Programming Paradigms.md, code is 27, comment is 0, blank is 42.
+docs/Programming Terms.md, code is 28, comment is 0, blank is 55.
+docs/Quotes.md, code is 22, comment is 0, blank is 13.
+docs/SCM.md, code is 1, comment is 0, blank is 0.
+docs/Security.md, code is 1, comment is 0, blank is 2.
+docs/Side Projects.md, code is 4, comment is 0, blank is 6.
+docs/SOLID Principles.md, code is 1, comment is 0, blank is 2.
+docs/SQL.md, code is 1, comment is 0, blank is 2.
+docs/Strings.md, code is 1, comment is 0, blank is 3.
+docs/Teaching.md, code is 3, comment is 0, blank is 2.
+docs/Technical Debt.md, code is 3, comment is 1, blank is 7.
+docs/Threading.md, code is 1, comment is 0, blank is 3.
+docs/Unit Testing.md, code is 4, comment is 0, blank is 3.
+docs/User Interface Design.md, code is 2, comment is 0, blank is 2.
+docs/Web Development.md, code is 6, comment is 0, blank is 2.
+docs/Work Ethic.md, code is 1, comment is 0, blank is 2.
+README.md, code is 3, comment is 1, blank is 2.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-11-20 20:07:43
+count workspace : /Users/admin/Projects/Documentation/ProgrammingEssentials
+total files : 58
+total code lines : 321
+total comment lines : 56
+total blank lines : 352
+
+_config.yml, code is 1, comment is 0, blank is 0.
+docs/Agile Development.md, code is 3, comment is 0, blank is 4.
+docs/Algorithms.md, code is 5, comment is 0, blank is 3.
+docs/API Development.md, code is 1, comment is 0, blank is 2.
+docs/Architectural Decisions.md, code is 5, comment is 0, blank is 7.
+docs/Building Team Cohesiveness.md, code is 1, comment is 0, blank is 1.
+docs/CI - CD.md, code is 1, comment is 0, blank is 2.
+docs/Cloud Development.md, code is 1, comment is 0, blank is 1.
+docs/Code Challenges.md, code is 1, comment is 0, blank is 1.
+docs/Code Smells.md, code is 1, comment is 0, blank is 1.
+docs/Collections.md, code is 1, comment is 0, blank is 2.
+docs/Communication.md, code is 1, comment is 0, blank is 2.
+docs/Containerization.md, code is 1, comment is 0, blank is 1.
+docs/Continual Learning Practices.md, code is 7, comment is 0, blank is 4.
+docs/CSharp.md, code is 13, comment is 0, blank is 7.
+docs/CSS.md, code is 1, comment is 0, blank is 1.
+docs/Daily Habits.md, code is 8, comment is 1, blank is 6.
+docs/DBA.md, code is 1, comment is 0, blank is 1.
+docs/Debugging.md, code is 2, comment is 0, blank is 3.
+docs/Demo Apps.md, code is 3, comment is 0, blank is 3.
+docs/Design Patterns.md, code is 3, comment is 0, blank is 4.
+docs/Dev Ops.md, code is 1, comment is 0, blank is 2.
+docs/Documentation.md, code is 5, comment is 0, blank is 3.
+docs/Domain Driven Design.md, code is 1, comment is 0, blank is 1.
+docs/Error Handling.md, code is 1, comment is 0, blank is 1.
+docs/Functional Programming.md, code is 1, comment is 0, blank is 1.
+docs/General Coding Best Practices.md, code is 14, comment is 0, blank is 10.
+docs/HTML.md, code is 1, comment is 0, blank is 1.
+docs/Images/principlesOOP.jpg, it is a binary file.
+docs/Imposter Syndrome.md, code is 3, comment is 0, blank is 2.
+docs/index.md, code is 62, comment is 51, blank is 70.
+docs/Interviewing.md, code is 1, comment is 0, blank is 1.
+docs/JavaScript.md, code is 3, comment is 0, blank is 4.
+docs/Languages.md, code is 3, comment is 0, blank is 2.
+docs/Naming Conventions.md, code is 1, comment is 0, blank is 1.
+docs/NoSql.md, code is 1, comment is 0, blank is 2.
+docs/Object-Oriented Programming.md, code is 8, comment is 0, blank is 5.
+docs/ORM.md, code is 1, comment is 0, blank is 1.
+docs/Other Programming Areas.md, code is 4, comment is 0, blank is 16.
+docs/Pair and Mob Programming.md, code is 1, comment is 0, blank is 1.
+docs/Problem Solving.md, code is 5, comment is 0, blank is 5.
+docs/Programming Paradigms.md, code is 27, comment is 0, blank is 42.
+docs/Programming Terms.md, code is 62, comment is 2, blank is 74.
+docs/Quotes.md, code is 22, comment is 0, blank is 13.
+docs/SCM.md, code is 1, comment is 0, blank is 0.
+docs/Security.md, code is 1, comment is 0, blank is 2.
+docs/Side Projects.md, code is 4, comment is 0, blank is 6.
+docs/SOLID Principles.md, code is 1, comment is 0, blank is 2.
+docs/SQL.md, code is 1, comment is 0, blank is 2.
+docs/Strings.md, code is 1, comment is 0, blank is 3.
+docs/Teaching.md, code is 3, comment is 0, blank is 2.
+docs/Technical Debt.md, code is 3, comment is 1, blank is 7.
+docs/Testing.md, code is 4, comment is 0, blank is 3.
+docs/Threading.md, code is 1, comment is 0, blank is 3.
+docs/User Interface Design.md, code is 2, comment is 0, blank is 2.
+docs/Web Development.md, code is 6, comment is 0, blank is 2.
+docs/Work Ethic.md, code is 1, comment is 0, blank is 2.
+README.md, code is 3, comment is 1, blank is 2.
+===============================================================================

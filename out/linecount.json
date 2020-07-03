@@ -1,0 +1,1308 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/Users/admin/Projects/Documentation/ProgrammingEssentials",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2018-11-18 13:22:08",
+            "filesum": 49,
+            "codesum": 246,
+            "commentsum": 46,
+            "blanksum": 286,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "_config.yml"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Agile Development.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Algorithms.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Architectural Decisions.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Building Team Cohesiveness.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CI - CD.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Cloud Development.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Challenges.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Smells.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Collections.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Communication.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Containerization.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "docs/Continual Learning Practices.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/CSharp.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CSS.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "docs/Daily Habits.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Design Patterns.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Documentation.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Domain Driven Design.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Error Handling.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Functional Programming.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "docs/General Coding Best Practices.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/HTML.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Imposter Syndrome.md"
+                },
+                {
+                    "blank": 59,
+                    "code": 54,
+                    "comment": 44,
+                    "filename": "docs/index.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Interviewing.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/JavaScript.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Languages.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Naming Conventions.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/NoSql.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Object-Oriented Programming.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/ORM.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Pair and Mob Programming.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Problem Solving.md"
+                },
+                {
+                    "blank": 42,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "docs/Programming Paradigms.md"
+                },
+                {
+                    "blank": 55,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "docs/Programming Terms.md"
+                },
+                {
+                    "blank": 13,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "docs/Quotes.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SCM.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Security.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Side Projects.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SOLID Principles.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SQL.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Strings.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Teaching.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Threading.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Unit Testing.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "docs/User Interface Design.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Work Ethic.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "README.md"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2018-11-18 13:44:08",
+            "filesum": 50,
+            "codesum": 246,
+            "commentsum": 46,
+            "blanksum": 286,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "_config.yml"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Agile Development.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Algorithms.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Architectural Decisions.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Building Team Cohesiveness.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CI - CD.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Cloud Development.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Challenges.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Smells.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Collections.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Communication.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Containerization.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "docs/Continual Learning Practices.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/CSharp.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CSS.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "docs/Daily Habits.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Design Patterns.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Documentation.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Domain Driven Design.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Error Handling.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Functional Programming.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "docs/General Coding Best Practices.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/HTML.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Imposter Syndrome.md"
+                },
+                {
+                    "blank": 59,
+                    "code": 54,
+                    "comment": 44,
+                    "filename": "docs/index.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Interviewing.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/JavaScript.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Languages.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Naming Conventions.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/NoSql.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Object-Oriented Programming.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/ORM.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Pair and Mob Programming.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Problem Solving.md"
+                },
+                {
+                    "blank": 42,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "docs/Programming Paradigms.md"
+                },
+                {
+                    "blank": 55,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "docs/Programming Terms.md"
+                },
+                {
+                    "blank": 13,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "docs/Quotes.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SCM.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Security.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Side Projects.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SOLID Principles.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SQL.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Strings.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Teaching.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "docs/Technical Debt.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Threading.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Unit Testing.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "docs/User Interface Design.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Work Ethic.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "README.md"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2018-11-18 15:45:35",
+            "filesum": 53,
+            "codesum": 263,
+            "commentsum": 51,
+            "blanksum": 307,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "_config.yml"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Agile Development.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Algorithms.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/API Development.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Architectural Decisions.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Building Team Cohesiveness.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CI - CD.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Cloud Development.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Challenges.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Smells.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Collections.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Communication.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Containerization.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "docs/Continual Learning Practices.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/CSharp.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CSS.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "docs/Daily Habits.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "docs/Debugging.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Design Patterns.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Documentation.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Domain Driven Design.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Error Handling.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Functional Programming.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "docs/General Coding Best Practices.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/HTML.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Imposter Syndrome.md"
+                },
+                {
+                    "blank": 66,
+                    "code": 59,
+                    "comment": 48,
+                    "filename": "docs/index.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Interviewing.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/JavaScript.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Languages.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Naming Conventions.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/NoSql.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Object-Oriented Programming.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/ORM.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Pair and Mob Programming.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Problem Solving.md"
+                },
+                {
+                    "blank": 42,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "docs/Programming Paradigms.md"
+                },
+                {
+                    "blank": 55,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "docs/Programming Terms.md"
+                },
+                {
+                    "blank": 13,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "docs/Quotes.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SCM.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Security.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Side Projects.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SOLID Principles.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SQL.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Strings.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Teaching.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "docs/Technical Debt.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Threading.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Unit Testing.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "docs/User Interface Design.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "docs/Web Development.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Work Ethic.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "README.md"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2018-11-20 20:07:43",
+            "filesum": 58,
+            "codesum": 321,
+            "commentsum": 56,
+            "blanksum": 352,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "_config.yml"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Agile Development.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Algorithms.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/API Development.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Architectural Decisions.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Building Team Cohesiveness.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CI - CD.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Cloud Development.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Challenges.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Code Smells.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Collections.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Communication.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Containerization.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "docs/Continual Learning Practices.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "docs/CSharp.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/CSS.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "docs/Daily Habits.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/DBA.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "docs/Debugging.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Demo Apps.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Design Patterns.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Dev Ops.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Documentation.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Domain Driven Design.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Error Handling.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Functional Programming.md"
+                },
+                {
+                    "blank": 10,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "docs/General Coding Best Practices.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/HTML.md"
+                },
+                {
+                    "filename": "docs/Images/principlesOOP.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Imposter Syndrome.md"
+                },
+                {
+                    "blank": 70,
+                    "code": 62,
+                    "comment": 51,
+                    "filename": "docs/index.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Interviewing.md"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/JavaScript.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Languages.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Naming Conventions.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/NoSql.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "docs/Object-Oriented Programming.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/ORM.md"
+                },
+                {
+                    "blank": 16,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Other Programming Areas.md"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Pair and Mob Programming.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "docs/Problem Solving.md"
+                },
+                {
+                    "blank": 42,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "docs/Programming Paradigms.md"
+                },
+                {
+                    "blank": 74,
+                    "code": 62,
+                    "comment": 2,
+                    "filename": "docs/Programming Terms.md"
+                },
+                {
+                    "blank": 13,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "docs/Quotes.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SCM.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Security.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Side Projects.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SOLID Principles.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/SQL.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Strings.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "docs/Teaching.md"
+                },
+                {
+                    "blank": 7,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "docs/Technical Debt.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "docs/Testing.md"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Threading.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "docs/User Interface Design.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "docs/Web Development.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "docs/Work Ethic.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "README.md"
+                }
+            ]
+        }
+    ]
+}
