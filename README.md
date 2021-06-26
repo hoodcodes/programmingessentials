@@ -9,6 +9,13 @@ I have heard it said that 'writing is thinking', so by writing out these aspects
 
 ## Table of Contents
 
+##### Section 0: My Library 
+
+###### [Books I Own](https://github.com/hoodcodes/programmingessentials/blob/master/docs/Library/Books%20I%20Own.md)
+
+###### [Books Of Interest](https://github.com/hoodcodes/programmingessentials/blob/master/docs/Library/Books%20Of%20Interest.md)
+
+###### [Articles And Posts](https://github.com/hoodcodes/programmingessentials/blob/master/docs/Library/Articles%20And%20Posts.md)
 
 ##### Section 1: Programming Paradigms  
 
