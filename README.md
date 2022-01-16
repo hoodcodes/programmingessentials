@@ -7,6 +7,7 @@ It is a living document and will be added to and fleshed out as time permits.  I
 I have heard it said that 'writing is thinking', so by writing out these aspects of programming myself, I am forcing myself to think.  I am certainly aware that this information is available and probably in better form elsewhere, and that is great.  My intent is to perform the exercise of thinking about each area myself, more deeply, and writing about it comes to mind as a great way to go about it.  And I encourage anyone else to create their own 'programming essentials' notes.     
 
 
+
 ## Table of Contents
 
 ##### Section 0: My Library 
