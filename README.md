@@ -1,4 +1,4 @@
-# Hood Codes Programming Notes
+# ProgrammingEssentials
 
 
 
